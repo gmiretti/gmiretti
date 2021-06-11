@@ -5,7 +5,7 @@
 - 👷‍♂️ I’m working as freelance **Python Data Engineer**.
 - 🧰 I worked with PyData / Scipy Python stack in AWS, GCP, etc. using Kubernetes or serverless frameworks.
 - 👯 I’m looking to work contributing to the open source PyData stack and related projects.
-- 👨‍🏫 I teached in postgraduate Data Science courses in Famaf, National University of Córdoba using
+- 👨‍🏫 I teached in postgraduate Data Science courses in FaMAF, National University of Córdoba using
 - 🗣️ I speaked in PyData and PyCon conferences in Argentina and local meetups.
 
 ## Profiles
