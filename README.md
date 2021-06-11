@@ -12,5 +12,5 @@
 
 - 📫 You can reach me via https://about.me/gmiretti
 - 🐦 You can follow me in [Twitter](https://twitter.com/gmiretti)
-- 💻 You can learn my developer story in [StackoverFlow](https://stackoverflow.com/users/story/1694635)
+- 💻 You can learn my developer story in [Stack Overflow](https://stackoverflow.com/users/story/1694635)
 - 💰 You can hire me in [Upwork](https://www.upwork.com/freelancers/~010d9b51806c7f3548)
