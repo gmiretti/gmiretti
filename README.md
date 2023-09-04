@@ -12,5 +12,5 @@
 
 - 📫 You can reach me via https://about.me/gmiretti
 - 🐦 You can follow me on [Twitter](https://twitter.com/gmiretti)
-- 💻 You can learn about my professional experience at [LinkedIn]([https://www.linkedin.com/in/gabrielmiretti/))
+- 💻 You can learn about my professional experience at [LinkedIn](https://www.linkedin.com/in/gabrielmiretti/)
 - 💰 You can hire me in [Upwork](https://www.upwork.com/freelancers/~010d9b51806c7f3548)
